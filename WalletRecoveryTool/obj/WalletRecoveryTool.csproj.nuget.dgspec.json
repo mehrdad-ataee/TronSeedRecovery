@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Mehrdad\\Projects\\TronSeedRecovery\\WalletRecoveryTool\\WalletRecoveryTool.csproj": {}
+    "C:\\Mehrdad\\Projects\\TronSeedRecovery\\WalletRecoveryTool\\WalletRecoveryTool.csproj": {}
   },
   "projects": {
-    "c:\\Mehrdad\\Projects\\TronSeedRecovery\\WalletRecoveryTool\\WalletRecoveryTool.csproj": {
+    "C:\\Mehrdad\\Projects\\TronSeedRecovery\\WalletRecoveryTool\\WalletRecoveryTool.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Mehrdad\\Projects\\TronSeedRecovery\\WalletRecoveryTool\\WalletRecoveryTool.csproj",
+        "projectUniqueName": "C:\\Mehrdad\\Projects\\TronSeedRecovery\\WalletRecoveryTool\\WalletRecoveryTool.csproj",
         "projectName": "WalletRecoveryTool",
-        "projectPath": "c:\\Mehrdad\\Projects\\TronSeedRecovery\\WalletRecoveryTool\\WalletRecoveryTool.csproj",
+        "projectPath": "C:\\Mehrdad\\Projects\\TronSeedRecovery\\WalletRecoveryTool\\WalletRecoveryTool.csproj",
         "packagesPath": "C:\\Users\\mehrd\\.nuget\\packages\\",
-        "outputPath": "c:\\Mehrdad\\Projects\\TronSeedRecovery\\WalletRecoveryTool\\obj\\",
+        "outputPath": "C:\\Mehrdad\\Projects\\TronSeedRecovery\\WalletRecoveryTool\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\mehrd\\AppData\\Roaming\\NuGet\\NuGet.Config"

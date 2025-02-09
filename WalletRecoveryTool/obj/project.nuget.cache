@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "nslfQp3iTA832CXuU1JscF2JC4uv+scVgp3hd4QSz4zbE4dPnPmvjxHxNjDA0OFdBxwQ8TL9j7S428dn4MaLeQ==",
+  "dgSpecHash": "eAmZwoabDCdUArVgUsUb59bTPz/B50VzdvOIqRfb4dUIyCKFldmRShkdO1NWZzFjr1ozPy4ifhQiHsjayDhJwg==",
   "success": true,
-  "projectFilePath": "c:\\Mehrdad\\Projects\\TronSeedRecovery\\WalletRecoveryTool\\WalletRecoveryTool.csproj",
+  "projectFilePath": "C:\\Mehrdad\\Projects\\TronSeedRecovery\\WalletRecoveryTool\\WalletRecoveryTool.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\mehrd\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\1.0.0\\microsoft.extensions.logging.abstractions.1.0.0.nupkg.sha512",
     "C:\\Users\\mehrd\\.nuget\\packages\\microsoft.netcore.platforms\\1.0.1\\microsoft.netcore.platforms.1.0.1.nupkg.sha512",
